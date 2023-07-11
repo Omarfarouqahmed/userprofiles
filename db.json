@@ -1,74 +1,82 @@
 {
-  "users": [
+  "gyms": [
     {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "name": "Fitness Zone",
+      "address": "kilmani Road, opp Pitman House",
+      "coach": "John Kimani",
+      "price": "kshs.5000/month",
+      "openingHours": "9 AM - 9 PM",
+      "image": "gym1.jpeg"
     },
     {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "name": "Powerhouse Gym",
+      "address": "opp Matter Hospital,Jamii House 4th floor ",
+      "coach": "Jane Kimayu",
+      "price": "kshs.45000/month",
+      "openingHours": "8 AM - 10 PM",
+      "image": "gym2.png"
     },
     {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "name": "Flex Fitness",
+      "address": "Gateway Mall , 3rd Floor, Syo Kimau",
+      "coach": "Mike Okumu",
+      "price": "kshs.4500/month",
+      "openingHours": "7 AM - 11 PM",
+      "image": "gym3.webp"
     },
     {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "name": "Fit World",
+      "address": "Kasuku Road, off Simba Road, Nyali",
+      "coach": "Alfred Bernard",
+      "price": "kshs.7000/month",
+      "openingHours": "6 AM - 10 PM",
+      "image": "gym4.jpeg"
     },
     {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "name": "Iron Gym",
+      "address": "Beach Road villas, No.775",
+      "coach": "David Njiru",
+      "price": "kshs.4500/month",
+      "openingHours": "24 Hours",
+      "image": "gym5.jpeg"
+    }
+  ],
+  "parlors": [
+    
+    {
+      "name": "Blissful Hands",
+      "location": "Kilmani Road, opp Pitman House",
+      "price": "kshs.1500/hour",
+      "openTimes": "11 AM - 7 PM",
+      "image": "parlour4.jpeg"
     },
     {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "name": "Healing Touch",
+      "location": "Hurlingham, Oak Street",
+      "price": "kshs.500/hour",
+      "openTimes": "9 AM - 8 PM",
+      "image": "parlour5.webp"
     },
     {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "name": "Heaven On Earth",
+      "location": "Ngong Road, opp Junction Mall",
+      "price": "kshs.750/hour",
+      "openingHours": "10am - 8pm",
+      "image": "parlour1.jpeg"
     },
     {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "name": "Magical Finishers",
+      "location": "Langata Road, opp Wilson Airport",
+      "price": "kshs.1500/hour",
+      "openTimes": "11am - 7pm",
+      "image": "parlour2.jpeg"
     },
     {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "name": "Body Haven",
+      "location": "Sungura Road, off Muhoho Avenue",
+      "price": "kshs.1000/hour",
+      "openTimes": "12pm - 6pm",
+      "image": "parlour3.jpeg"
     }
   ]
 }
